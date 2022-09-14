@@ -1,5 +1,6 @@
 def buildApp() {
     echo 'building the application...'
+    echo 'Hope run automatically.'
 } 
 
 def testApp() {
